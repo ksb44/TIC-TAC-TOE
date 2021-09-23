@@ -1,0 +1,13 @@
+Tic-Tac-Toe is a two player game where each player uses a mark.  The player who successfully places three respective mark in a vertical, horizontal or diagonal row is the winner.
+
+Step 1: Use 3 X 3 matrix to get 9 cell tic tac toe board.
+Step 2: Mark 'X' is used for player 1 and 'Y' for player 2.  And the players play
+           alternatively.
+Step 3: Get numbers as input from the players.  And the numbers range is 1-9. i.e) from 
+           cell 1 to cell 9.
+Step 4: After each move, check whether that player has placed three respective
+           mark in vertical, horizontal or diagonal row.  If yes, declare that
+           particular player as winner.
+Step 5: If no, give chance for other player.
+Step 6: If all the cells in the Tic-Tac-Toe board got filled, then the game is drawn.
+
